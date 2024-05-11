@@ -22,7 +22,7 @@ Aprenda a plantar e cuidar de suas plantas com tutoriais detalhados e fáceis de
 Dália te ajuda a escolher as melhores plantas para seu estilo de vida e te dá dicas personalizadas para o sucesso do seu jardim.
 
 ### Baixe ebooks personalizados
-Ao final de cada Chat você tem acesso a um ebook personalizado para você!
+Ao final de cada Chat você tem acesso a um ebook personalizado para você! [saiba mais](https://github.com/brunocastro/plant_ai/tree/main/ebook)
 
 # Abrace o verde e transforme sua casa em um oásis! 🏡🌿
 Com a Plant_IA, você descobre a alegria de cultivar seu próprio jardim, conectar-se com a natureza e ter um lar mais verde e vibrante!
