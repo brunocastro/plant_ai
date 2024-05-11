@@ -1,4 +1,4 @@
-# Plant_IA:
+# Plant_AI:
 O Chatbot pra quem tem paixão por plantas, mas não tem dedo verde! 🌱✨
 ---
     Já sonhou em ter um lar florido, cheio de vida e cor, mas se sente perdido no mundo da jardinagem? 🌿 Apresentamos a Plant_IA, seu companheiro verde, que te ajuda a cultivar plantas lindas e saudáveis, mesmo sem experiência!
