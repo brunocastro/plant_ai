@@ -28,9 +28,7 @@ Nosso servidor, aciona a IA da Plant_AI. Ela gera um eBook único. Um eBook para
 ## Com os eBooks da Plant_AI, você terá:
 
 - Informações aprofundadas: Conteúdo rico e detalhado sobre o tema que você escolheu, indo além da conversa inicial com a Dália.
-
 - Dicas personalizadas: Orientações específicas para o seu caso, levando em conta as características do tema e suas dúvidas.
-
 - Formato fácil de ler: Um layout agradável e organizado para uma leitura prazerosa e intuitiva.
 
 Pronto para aprofundar seus conhecimentos sobre jardinagem?
