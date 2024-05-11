@@ -5,10 +5,8 @@ Leve a sabedoria da Dália para além da conversa! 🌱📚
 
 1. Converse com a Dália: 
 Explore suas dúvidas sobre jardinagem no chat da Plant_AI.
-
 2. Receba seu eBook:
 Ao final da conversa, Dália te presenteia com um link para um eBook exclusivo, focado no tema central do seu diálogo.
-
 3. Clique e baixe:
 Você será direcionado para a página do seu eBook personalizado, pronto para download!
 
