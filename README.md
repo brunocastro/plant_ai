@@ -5,6 +5,7 @@ O Chatbot pra quem tem paixão por plantas, mas não tem dedo verde! 🌱✨
 
 ### Conheça a Dália, sua especialista em plantas virtual 👩‍🌾
 Dália é uma IA encantadora e superinteligente, que te guia passo a passo no cuidado com suas plantinhas. Ela te ensina tudo sobre:
+![Dalia a IA jardineira](https://github.com/brunocastro/plant_ai/assets/1557137/e25ab12a-db77-4de4-887b-6ed3c1057c8b)
 
 - Escolher as plantas ideais
 - Plantar e cuidar:
